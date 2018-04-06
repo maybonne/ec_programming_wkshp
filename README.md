@@ -1,5 +1,5 @@
 # ec_programming_wkshp
-New repository
+
 
 In-class Exercises
 Exercise 2_1: https://maybonne.github.io/ec_programming_wkshp/2_1_exercise_ellen.html
