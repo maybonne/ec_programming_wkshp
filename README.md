@@ -3,12 +3,19 @@
 
 In-class Exercises
 
-Exercise 2_1: https://maybonne.github.io/ec_programming_wkshp/2_1_exercise_ellen.html
-Exercise 2_2: https://maybonne.github.io/ec_programming_wkshp/2_2_css.html
-Exercise 2_2: https://maybonne.github.io/ec_programming_wkshp/2_2_exercise_ellen_css.html
-Exercise 2_3: https://maybonne.github.io/ec_programming_wkshp/2_3_css.html
-Exercise 2_4: https://maybonne.github.io/ec_programming_wkshp/2_4_positioning.html
-Exercise 2_7: https://maybonne.github.io/ec_programming_wkshp/2_7_grid.html
+https://maybonne.github.io/ec_programming_wkshp/1_basichtml.html
+https://maybonne.github.io/ec_programming_wkshp/2_cssbasics.html
+https://maybonne.github.io/ec_programming_wkshp/3_danishflag.html
+https://maybonne.github.io/ec_programming_wkshp/4_danishflag_positioning.html
+https://maybonne.github.io/ec_programming_wkshp/5_1_nauru.html
+https://maybonne.github.io/ec_programming_wkshp/5_2_usflag.html
+https://maybonne.github.io/ec_programming_wkshp/6_1flex.html
+https://maybonne.github.io/ec_programming_wkshp/7_query1.html
+https://maybonne.github.io/ec_programming_wkshp/7_query2_italytofrancetoelsalvador.html
+https://maybonne.github.io/ec_programming_wkshp/8_jquery_flag.html
+
+
+
 
 Homework
 
@@ -21,4 +28,6 @@ Digital Bits 5: https://maybonne.github.io/ec_programming_wkshp/digital_bits/dig
 Abstract Compositions 1: https://maybonne.github.io/ec_programming_wkshp/abstract_compositions/abstract1.html
 Abstract Compositions 2: https://maybonne.github.io/ec_programming_wkshp/abstract_compositions/abstract2.html
 
-
+Animation 1: https://maybonne.github.io/ec_programming_wkshp/animation/animation.html
+Animation 2: https://maybonne.github.io/ec_programming_wkshp/animation/animation2.html
+Animation 3: https://maybonne.github.io/ec_programming_wkshp/animation/animation3.html

@@ -1,0 +1,85 @@
+<html>
+  <head>
+    <style>
+        
+
+        
+body {margin: 0px; background-color: black; transition: 2s all;}
+        
+/*.container {width: 100%vw; height: 100%vh;}*/
+
+.div1 {
+  position: absolute;
+  top: 75; left: 140;
+  margin: 0px; padding: 0;
+  width: 40%; height: 40%;
+    background: yellow;
+  }
+
+  .div2 {
+    position: absolute;
+    top: 375px; left: 140px;
+      margin: 0px; padding: 0;
+    width: 40%; height: 40%;
+      background: red;
+    }
+
+    .div3 {
+      position: absolute;
+      top: 75px; left: 730px;
+      margin: 0px;
+      width: 40%; height: 40%;
+        background: green;
+      }
+
+      .div4 {
+          position: absolute;
+          top: 375px; left: 730px;
+        margin: 0px; padding: 0;
+        width: 40%; height: 40%;
+          background: pink;
+        }
+
+        div {width: 100%; transition: 2.5s all; }
+            .move {transform: rotate(135deg)}
+                .background {background: white; opacity: .5;}
+               .opacity {opacity: .5;}
+
+        .bodybackground {background: white;}
+        
+        
+  </style>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+      </script>
+
+  </head>
+
+<body>
+<!--    <div class="container">-->
+<div class=div1></div>
+<div class="div2"></div>
+<div class="div3"></div>
+<div class="div4"></div>
+</div>
+    
+
+    
+    <script>
+						$("div").click(function() {
+							$(this).toggleClass("move");    
+                            $(this).toggleClass("opacity");
+                            $(this).toggleClass("background");
+						});
+        
+        	$("body").click(function() {
+                            $(this).toggleClass("bodybackground");
+						});
+        
+        
+        
+   
+        
+					</script>
+  </body>
+
+</html>

@@ -1,0 +1,63 @@
+<html>
+  <head>
+      <title>Media query demo</title>
+    <style>
+     section {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       height: 100vh;
+     }
+        
+            body {margin:0}
+/*
+      div {  flex: 200px;
+         margin: 1px;
+      background: red;
+          
+*/
+         .white {  flex: 200px;
+         margin: 1px;
+      background: white;
+                          
+}
+          
+                   .green {  flex: 200px;
+         margin: 1px;
+      background: green;
+                          
+}
+        
+           .red {  flex: 200px;
+         margin: 1px;
+      background: red;
+                          
+}
+        
+          
+  @media (max-width: 1024px) {
+    .red {       background: green;}
+  }
+  @media (max-width: 600px) {
+    section {
+      flex-direction: column;
+    }
+    .green {       background: red;}
+  }
+        
+
+    </style>
+
+  </head>
+  <body>
+
+    <section>
+
+      <div class="green"></div>
+      <div class="white"></div>
+      <div class="red"></div>
+
+    </section>
+
+  </body>
+</html>
